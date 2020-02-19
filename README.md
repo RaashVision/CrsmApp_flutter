@@ -5,8 +5,8 @@ This is the CrResposiveApp app built in Flutter which mainly focus on resposive 
 ## Screenshots
 
 ![screenshot_20200219-223651(1)](https://user-images.githubusercontent.com/14199227/74845254-b0bbf180-5369-11ea-88aa-23b8211da1d8.jpg)
-![screenshot_20200219-223644(1)](https://user-images.githubusercontent.com/14199227/74845267-b74a6900-5369-11ea-9e83-a59d845834e7.jpg)
 ![screenshot_20200219-223641(1)](https://user-images.githubusercontent.com/14199227/74845284-bfa2a400-5369-11ea-85fb-31884427c0b7.jpg)
+![screenshot_20200219-223644(1)](https://user-images.githubusercontent.com/14199227/74845267-b74a6900-5369-11ea-9e83-a59d845834e7.jpg)
 
 ## GIF
 
