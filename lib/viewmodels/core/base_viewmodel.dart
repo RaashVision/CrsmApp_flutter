@@ -1,9 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:ESmile/enums/viewstate.dart';
-import 'package:ESmile/interfaces/i_vibration.dart';
-import 'package:ESmile/locator.dart';
+import 'package:CrResposiveApp/enums/viewstate.dart';
+import 'package:CrResposiveApp/locator.dart';
 
 class BaseViewModel extends ChangeNotifier {
 

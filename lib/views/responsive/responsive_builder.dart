@@ -1,5 +1,5 @@
-import 'package:ESmile/utils/ui_utils.dart';
-import 'package:ESmile/views/responsive/sizing_information.dart';
+import 'package:CrResposiveApp/utils/ui_utils.dart';
+import 'package:CrResposiveApp/views/responsive/sizing_information.dart';
 import 'package:flutter/material.dart';
 
 

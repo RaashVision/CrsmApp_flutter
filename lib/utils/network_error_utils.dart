@@ -1,6 +1,6 @@
 
-import 'package:ESmile/enums/viewstate.dart';
-import 'package:ESmile/models/result.dart';
+import 'package:CrResposiveApp/enums/viewstate.dart';
+import 'package:CrResposiveApp/models/result.dart';
 import 'package:dio/dio.dart';
 
 class NetworkErrorHandlerUtils{

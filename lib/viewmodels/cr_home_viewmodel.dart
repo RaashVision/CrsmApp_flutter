@@ -1,8 +1,9 @@
 
-import 'package:ESmile/enums/viewstate.dart';
-import 'package:ESmile/interfaces/i_repository.dart';
-import 'package:ESmile/models/typicode_photo.dart';
-import 'package:ESmile/viewmodels/core/base_viewmodel.dart';
+import 'package:CrResposiveApp/enums/viewstate.dart';
+import 'package:CrResposiveApp/interfaces/i_repository.dart';
+import 'package:CrResposiveApp/models/typicode_photo.dart';
+import 'package:CrResposiveApp/services/navigation_service.dart';
+import 'package:CrResposiveApp/viewmodels/core/base_viewmodel.dart';
 
 import '../locator.dart';
 
@@ -15,6 +16,7 @@ class CRHomeViewModel extends BaseViewModel{
   IRepository iRepository = locator<IRepository>();
 
    List<bool> isSelected = [true, false,];
+   NavigationService navigationService = locator<NavigationService>();
 
 
   void getDefaultData() async{

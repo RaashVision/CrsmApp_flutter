@@ -1,5 +1,5 @@
 
-import 'package:ESmile/models/result.dart';
+import 'package:CrResposiveApp/models/result.dart';
 
 abstract class IApi{
 

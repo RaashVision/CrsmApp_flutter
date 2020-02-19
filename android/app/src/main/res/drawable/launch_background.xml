@@ -22,7 +22,9 @@
     </item>
     <item
         android:gravity="center"
-         android:drawable="@drawable/smile"
+         android:drawable="@drawable/resposiveicon"
+         android:width="100dp"
+         android:height="100dp"
       >
         </item>
 </layer-list>

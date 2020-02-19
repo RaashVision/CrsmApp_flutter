@@ -1,4 +1,4 @@
-name: ESmile
+name: CrResposiveApp
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -25,36 +25,13 @@ dependencies:
   cupertino_icons: ^0.1.2
   get_it: ^3.0.0+1
   provider: ^3.1.0
-  catcher: ^0.2.4
-  giffy_dialog: ^1.3.0
-  sticky_headers: ^0.1.8
-  uuid: 2.0.1
-  intl: ^0.16.0
-  camera: ^0.5.2+1
   path_provider: ^1.1.0
   path: ^1.6.2
-  carousel_slider: ^1.3.1
-  simple_animations: ^1.3.4
-  vibration: 1.2.2
-  rubber: ^0.4.0
-  page_transition: "^1.1.5"
   flushbar: ^1.9.1
-  material_segmented_control: ^2.0.9
-  marquee: ^1.3.1
-  sembast: ^2.1.3
-  datetime_picker_formfield: ^1.0.0
-  flutter_slidable: ^0.5.4
-  rflutter_alert: ^1.0.3
-  dart_amqp: ^0.1.4
-  keyboard_visibility: ^0.5.1
-  emoji_picker: ^0.0.3
-  font_awesome_flutter: ^8.5.0
-  typicons_flutter: ^0.3.1
-  flutter_icons: ^1.0.0+1
-  image_picker: ^0.6.3+1
   permission_handler: ^4.2.0+hotfix.3
   dio: ^3.0.8
-  http: ^0.12.0+4
+  shimmer: ^1.0.1
+  rflutter_alert: ^1.0.3
 dev_dependencies:
   flutter_test:
     sdk: flutter

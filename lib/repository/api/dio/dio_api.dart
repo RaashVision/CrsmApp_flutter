@@ -1,12 +1,12 @@
 import 'dart:convert';
 
-import 'package:ESmile/api_urls.dart';
-import 'package:ESmile/enums/viewstate.dart';
-import 'package:ESmile/interfaces/i_api.dart';
-import 'package:ESmile/locator.dart';
-import 'package:ESmile/models/result.dart';
-import 'package:ESmile/models/typicode_photo.dart';
-import 'package:ESmile/utils/network_error_utils.dart';
+import 'package:CrResposiveApp/api_urls.dart';
+import 'package:CrResposiveApp/enums/viewstate.dart';
+import 'package:CrResposiveApp/interfaces/i_api.dart';
+import 'package:CrResposiveApp/locator.dart';
+import 'package:CrResposiveApp/models/result.dart';
+import 'package:CrResposiveApp/models/typicode_photo.dart';
+import 'package:CrResposiveApp/utils/network_error_utils.dart';
 import 'package:dio/dio.dart';
 import 'package:http/http.dart' as kokoi;
 class DioAPI implements IApi{

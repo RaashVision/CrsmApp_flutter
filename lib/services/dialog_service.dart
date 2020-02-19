@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:ESmile/models/alert_request.dart';
-import 'package:ESmile/models/alert_response.dart';
+import 'package:CrResposiveApp/models/alert_request.dart';
+import 'package:CrResposiveApp/models/alert_response.dart';
 
 class DialogService {
   Function(AlertRequest) _showDialogListener;

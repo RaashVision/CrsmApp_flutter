@@ -1,8 +1,8 @@
-import 'package:ESmile/viewmodels/cr_home_viewmodel.dart';
-import 'package:ESmile/views/core/base_view.dart';
-import 'package:ESmile/views/pages/cr_home_view/cr_home_mobile_portrait.dart';
-import 'package:ESmile/views/responsive/orientation_layout.dart';
-import 'package:ESmile/views/responsive/screen_type_layout.dart';
+import 'package:CrResposiveApp/viewmodels/cr_home_viewmodel.dart';
+import 'package:CrResposiveApp/views/core/base_view.dart';
+import 'package:CrResposiveApp/views/pages/cr_home_view/cr_home_mobile_portrait.dart';
+import 'package:CrResposiveApp/views/responsive/orientation_layout.dart';
+import 'package:CrResposiveApp/views/responsive/screen_type_layout.dart';
 import 'package:flutter/material.dart';
 
 import 'cr_home_mobile_landscape.dart';

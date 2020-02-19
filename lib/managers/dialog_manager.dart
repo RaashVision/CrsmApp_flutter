@@ -1,8 +1,8 @@
 
-import 'package:ESmile/models/alert_request.dart';
-import 'package:ESmile/models/alert_response.dart';
-import 'package:ESmile/services/dialog_service.dart';
-import 'package:ESmile/views/shared/app_colors.dart';
+import 'package:CrResposiveApp/models/alert_request.dart';
+import 'package:CrResposiveApp/models/alert_response.dart';
+import 'package:CrResposiveApp/services/dialog_service.dart';
+import 'package:CrResposiveApp/views/shared/app_colors.dart';
 import 'package:flutter/material.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
 

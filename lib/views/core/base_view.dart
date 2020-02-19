@@ -5,8 +5,8 @@ import 'dart:async';
 import 'package:flushbar/flushbar.dart';
 import 'package:flushbar/flushbar_helper.dart';
 import 'package:flutter/material.dart';
-import 'package:ESmile/enums/viewstate.dart';
-import 'package:ESmile/viewmodels/core/base_viewmodel.dart';
+import 'package:CrResposiveApp/enums/viewstate.dart';
+import 'package:CrResposiveApp/viewmodels/core/base_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 import '../../locator.dart';

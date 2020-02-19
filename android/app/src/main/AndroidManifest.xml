@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ESmile">
+    package="com.example.CrResposiveApp">
 
 
 
@@ -17,8 +17,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="ESmile"
-        android:icon="@mipmap/wow">
+        android:label="CrResposiveApp"
+        android:icon="@mipmap/resposiveicon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

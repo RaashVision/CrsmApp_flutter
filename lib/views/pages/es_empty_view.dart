@@ -1,4 +1,4 @@
-import 'package:ESmile/views/shared/style.dart';
+import 'package:CrResposiveApp/views/shared/style.dart';
 import 'package:flutter/cupertino.dart';
 
 /* This is the widget to show emppy page. Make it separate so that easy to change and use across the app */

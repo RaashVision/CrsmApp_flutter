@@ -1,4 +1,4 @@
-import 'package:ESmile/settings.dart';
+import 'package:CrResposiveApp/settings.dart';
 
 class TypiCodeAPIUrls{
 

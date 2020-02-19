@@ -1,8 +1,8 @@
-import 'package:ESmile/views/pages/es_empty_view.dart';
-import 'package:ESmile/views/pages/es_error_view.dart';
-import 'package:ESmile/views/shared/style.dart';
+import 'package:CrResposiveApp/views/pages/es_empty_view.dart';
+import 'package:CrResposiveApp/views/pages/es_error_view.dart';
+import 'package:CrResposiveApp/views/shared/style.dart';
 import 'package:flutter/material.dart';
-import 'package:ESmile/enums/viewstate.dart';
+import 'package:CrResposiveApp/enums/viewstate.dart';
 
 class DynamicUIBasedOnState extends StatefulWidget {
 
