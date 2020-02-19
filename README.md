@@ -1,6 +1,6 @@
 # CrResposiveApp 
 
-This is the CrResposiveApp app built in Flutter which mainly focus on resposive UI. Use Provider as State Management. Only tested with Android. IOS not tested yet
+This is the CrResposiveApp app built in Flutter which mainly focus on resposive UI. Use Provider as State Management. Get data from api(https://jsonplaceholder.typicode.com/photos) and show it in the app. Only tested with Android. IOS not tested yet
 
 ## Screenshots
 
